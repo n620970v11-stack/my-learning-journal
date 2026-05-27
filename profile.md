@@ -35,8 +35,8 @@
 #### AI Agent Payment 學習路徑
 - Course folder / 課程資料夾：my-learning-journal/payment/
 - Curriculum ref / 課綱參考：D:\n620970v11\agent_payment_roadmap.md
-- Progress / 進度：資料夾初始化完成，尚未開始
-- Next step / 下一步：Week 1 — 閱讀 Stripe Online Payments 101，畫七角色關係圖
+- Progress / 進度：Week 2 Day 1 完成（七角色 / 授權清算 / 結算機制 / MDR 費用結構 / 退款本質）
+- Next step / 下一步：補完 Week 1 Action Items（七角色關係圖 + 真實刷卡套用）；Week 2 繼續
 
 ### Side Project
 - Current project / 目前專案：無
