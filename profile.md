@@ -34,8 +34,8 @@
 #### AI Agent Manager 養成課程
 - Course folder / 課程資料夾：my-learning-journal/ai-agent/
 - Curriculum ref / 課綱參考：`my-curriculum/ai-agent-manager-curriculum.docx`
-- Progress / 進度：Day 3 完成，Module 1.1~1.5（AI / 機器學習 / 神經網路 / Token / LLM 本質與訓練三階段）
-- Next step / 下一步：Module 1.6
+- Progress / 進度：Day 4 完成，Module 1.1~1.6（AI / 機器學習 / 神經網路 / Token / LLM 本質與訓練三階段 / Context Window）
+- Next step / 下一步：Module 1.7（模型參數 — Temperature、Top-p）
 
 #### AI Agent Payment 學習路徑
 - Course folder / 課程資料夾：my-learning-journal/payment/
