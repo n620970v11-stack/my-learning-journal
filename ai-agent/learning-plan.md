@@ -22,5 +22,5 @@
 | 10 | Payment AI Agent 實戰整合 — 期末專案 | 4 | 140 分鐘 | 3-4 天 | |
 
 ## Notes / 備注
-- 完整課綱請見 `D:\n620970v11\ai-agent-manager-curriculum.md`
+- 完整課綱請見 `my-curriculum/ai-agent-manager-curriculum.docx`
 - 每個 Module 完成後更新上方表格的 Status（In Progress / Done）

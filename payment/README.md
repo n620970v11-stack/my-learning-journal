@@ -6,7 +6,7 @@
 
 期間：2026/05/22 ─ 2026/07/22（9 週）
 每週投入：2-3 小時（學習 2hr + 寫作 1hr）
-參考課綱：`agent_payment_roadmap.md`（位於 D:\n620970v11\）
+參考課綱：`my-curriculum/agent_payment_roadmap.docx`
 
 ## Learning Plan / 學習計畫
 See `learning-plan.md`

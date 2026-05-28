@@ -5,7 +5,7 @@
 
 工具鏈：Claude Code + VS Code
 每日學習時間：約 1 小時
-參考課綱：`ai-agent-manager-curriculum.md`（位於 D:\n620970v11\）
+參考課綱：`my-curriculum/ai-agent-manager-curriculum.docx`
 
 ## Learning Plan / 學習計畫
 See `learning-plan.md`

@@ -22,6 +22,6 @@
 | Week 9 | Phase 4（寫作週） | 整合 + 個人觀點 | **文章 4**：代表作 + 履歷 | |
 
 ## Notes / 備注
-- 完整課綱請見 `D:\n620970v11\agent_payment_roadmap.md`
+- 完整課綱請見 `my-curriculum/agent_payment_roadmap.docx`
 - 每週完成後更新上方表格的 Status（In Progress / Done）
 - 文章發表後記錄連結
