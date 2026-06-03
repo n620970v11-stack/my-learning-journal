@@ -17,9 +17,10 @@
 - Curriculum repo / 課綱 repo：`my-curriculum/`（課程參考資料）
 
 ## Goal Direction / 目標方向
-- 透過 AI × Web3 School Cohort 0 共學營學習 AI 與 Web3 結合應用
-- 成為能獨立規劃、配置、部署、監控 AI Agent 的 Agent Manager（聚焦 Payment 領域）
-- 建立 payment 知識體系，定位為 AI PM / AI Governance / AI Strategy
+- 長期目標：成為 PDM（Core Feature PM + Growth PM）
+- 學習重心：AI Agent、Product、Web3 三大主軸
+- 透過每週 Product Hunt 分析建立產品感，從中找到值得深入研究的方向
+- 透過 side project 累積實際執行的產品作品集
 
 ## Current Progress / 目前進度
 
@@ -37,11 +38,16 @@
 - Progress / 進度：Day 4 完成，Module 1.1~1.6（AI / 機器學習 / 神經網路 / Token / LLM 本質與訓練三階段 / Context Window）
 - Next step / 下一步：Module 1.7（模型參數 — Temperature、Top-p）
 
-#### AI Agent Payment 學習路徑
+#### Product 分析（Product Hunt 每週拆解）
+- Course folder / 課程資料夾：my-learning-journal/product-notes/
+- Progress / 進度：初始化完成，尚未開始
+- Next step / 下一步：完成第一篇產品分析
+
+#### AI Agent Payment 學習路徑【暫停】
 - Course folder / 課程資料夾：my-learning-journal/payment-notes/
 - Curriculum ref / 課綱參考：`my-curriculum/agent_payment_roadmap.docx`
 - Progress / 進度：Week 2 Day 1 完成（七角色 / 授權清算 / 結算機制 / MDR 費用結構 / 退款本質）
-- Next step / 下一步：補完 Week 1 Action Items（七角色關係圖 + 真實刷卡套用）；Week 2 繼續
+- Next step / 下一步：（暫停，待確認是否繼續投入）
 
 ### Side Project
 - Current project / 目前專案：無
