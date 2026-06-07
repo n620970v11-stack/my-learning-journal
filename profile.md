@@ -44,22 +44,22 @@ my-learning-journal/
 
 ### Learning / 學習
 
-#### AI × Web3 School Cohort 0
+#### web3
 - Notes folder / 筆記資料夾：`notes/web3/`
 - Progress / 進度：初始化完成，尚未開始每日推進
 - Next step / 下一步：確認課程開始日期，開始第一天學習筆記
 
-#### AI Agent Manager 養成課程
+#### ai-agent
 - Notes folder / 筆記資料夾：`notes/ai-agent/`
 - Progress / 進度：Day 4 完成，Module 1.1~1.6（AI / 機器學習 / 神經網路 / Token / LLM 本質與訓練三階段 / Context Window）
 - Next step / 下一步：Module 1.7（模型參數 — Temperature、Top-p）
 
-#### Product 分析（Product Hunt 每週拆解）
+#### product
 - Notes folder / 筆記資料夾：`notes/product/`
 - Progress / 進度：初始化完成，尚未開始
 - Next step / 下一步：完成第一篇產品分析
 
-#### AI Agent Payment 學習路徑【暫停】
+#### payment【暫停】
 - Notes folder / 筆記資料夾：`notes/payment/`
 - Progress / 進度：Week 2 Day 1 完成（七角色 / 授權清算 / 結算機制 / MDR 費用結構 / 退款本質）
 - Next step / 下一步：（暫停，待確認是否繼續投入）
