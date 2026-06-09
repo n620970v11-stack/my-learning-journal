@@ -13,10 +13,4 @@ This repo is public. Do NOT include API keys, mnemonics, private keys, unpublish
 
 | Folder | 用途 |
 |--------|------|
-| `daily/` | 每日學習筆記 |
-| `tasks/` | 任務與卡點紀錄 |
-| `experiments/` | 實驗與動手練習紀錄 |
-| `handbook-feedback/` | Handbook 問題、卡點、建議回饋 |
-| `hackathon/` | Hackathon 準備與提案 |
-| `submissions/` | 任務提交證明與打卡連結 |
 | `templates/` | 筆記模板 |
