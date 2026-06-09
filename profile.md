@@ -50,8 +50,8 @@ my-learning-journal/
 
 #### web3
 - Notes folder / 筆記資料夾：`notes/web3/`
-- Progress / 進度：初始化完成，尚未開始每日推進
-- Next step / 下一步：確認課程開始日期，開始第一天學習筆記
+- Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 完成（2026-06-09）
+- Next step / 下一步：第三部分 Ch6（以太坊運作模型）
 
 #### ai-agent
 - Notes folder / 筆記資料夾：`notes/ai-agent/`
@@ -72,7 +72,7 @@ my-learning-journal/
 - 計畫資料夾：`plans/`（weekly / monthly / quarterly / yearly）
 - 起跑日：2026-06-07
 - 對應依據：`nine-month-battle-plan.md`
-- 最新計畫：（尚未建立）
+- 最新計畫：`plans/weekly/2026-W24.md`
 
 ### Side Project
 - Current project / 目前專案：無
