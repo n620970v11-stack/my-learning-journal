@@ -11,4 +11,5 @@ This repo is public. Do NOT include API keys, mnemonics, private keys, unpublish
 
 | Folder | 用途 |
 |--------|------|
+| `daily/` | 每日學習筆記 |
 | `templates/` | 筆記模板 |
