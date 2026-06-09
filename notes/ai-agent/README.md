@@ -1,11 +1,11 @@
-# AI Agent Manager 養成課程
+# AI Agent 學習筆記
 
 ## Overview / 課程簡介
-自學課程，目標是能獨立規劃、配置、部署、監控 Payment 領域的 AI Agent，勝任 HBR 定義的 Agent Manager 角色。
+自學課程，目標是建立 AI Agent 核心知識體系，為 AI Agent × Web3 PM 求職做底層準備。
+對應作戰書：階段一、二（2026 年 6-9 月）
 
 工具鏈：Claude Code + VS Code
 每日學習時間：約 1 小時
-參考課綱：`my-curriculum/ai-agent-manager-curriculum.docx`
 
 ## Learning Plan / 學習計畫
 See `learning-plan.md`

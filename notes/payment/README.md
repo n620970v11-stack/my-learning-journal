@@ -1,15 +1,8 @@
-# AI Agent Payment 學習路徑
+# AI Agent Payment 學習路徑【暫停】
 
 ## Overview / 課程簡介
-自學課程，目標是建立 payment 完整知識體系，定位為 AI PM / AI Governance / AI Strategy。
-最終產出：4 篇中文公開文章 + 完整知識體系 + 履歷雛型。
-
-期間：2026/05/22 ─ 2026/07/22（9 週）
-每週投入：2-3 小時（學習 2hr + 寫作 1hr）
-參考課綱：`my-curriculum/agent_payment_roadmap.docx`
-
-## Learning Plan / 學習計畫
-See `learning-plan.md`
+自學課程，目標是建立 payment 完整知識體系。
+目前狀態：暫停，待確認是否繼續投入。
 
 ## Structure / 資料夾說明
 - `daily/` — 每日學習筆記

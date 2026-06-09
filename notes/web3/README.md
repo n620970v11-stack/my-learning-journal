@@ -1,10 +1,8 @@
-# AI × Web3 School — Cohort 0
+# Web3 學習筆記
 
-Personal learning journal and proof-of-work for AI × Web3 School.
-
-## Links / 連結
-- Handbook：https://aiweb3.school/zh/handbook/
-- WCB 課程頁面：https://web3career.build/zh/programs/AI-Web3-School
+## Overview / 課程簡介
+自學課程，目標是建立 Web3 基礎知識體系，從區塊鏈原理到智能合約、DeFi、AA 帳戶抽象。
+對應作戰書：階段一～三（2026 年 6 月 - 2026 年 11 月）
 
 ## Privacy Reminder / 隱私提醒
 This repo is public. Do NOT include API keys, mnemonics, private keys, unpublished contact info, or any sensitive data.

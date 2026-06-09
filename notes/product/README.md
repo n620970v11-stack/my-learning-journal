@@ -14,7 +14,7 @@
 
 ## 命名規則
 `YYYY-MM-DD-[product-name].md`
-例：`2025-06-10-notion.md`
+例：`2026-06-10-notion.md`
 
 ## 分析索引
 | 日期 | 產品 | 類型 | 一句話定位 |
