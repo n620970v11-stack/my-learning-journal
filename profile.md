@@ -30,8 +30,12 @@ my-learning-journal/
 │   ├── web3/
 │   ├── payment/
 │   └── product/
-├── checkin/             ← 打卡（日/週/月/季/半年/年）
-└── _templates/          ← 打卡各層模板
+├── plans/               ← 計畫（週/月/季/年）
+│   ├── weekly/
+│   ├── monthly/
+│   ├── quarterly/
+│   └── yearly/
+└── _templates/          ← 各層計畫模板
 ```
 
 ## Goal Direction / 目標方向
@@ -64,11 +68,11 @@ my-learning-journal/
 - Progress / 進度：Week 2 Day 1 完成（七角色 / 授權清算 / 結算機制 / MDR 費用結構 / 退款本質）
 - Next step / 下一步：（暫停，待確認是否繼續投入）
 
-### Check-in / 打卡
-- 打卡資料夾：`checkin/`（daily / weekly / monthly / quarterly / half-year / yearly）
+### Plans / 計畫
+- 計畫資料夾：`plans/`（weekly / monthly / quarterly / yearly）
 - 起跑日：2026-06-07
 - 對應依據：`nine-month-battle-plan.md`
-- 最近一次打卡：（尚未開始）
+- 最新計畫：（尚未建立）
 
 ### Side Project
 - Current project / 目前專案：無
