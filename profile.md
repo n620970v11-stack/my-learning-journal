@@ -50,8 +50,8 @@ my-learning-journal/
 
 #### web3
 - Notes folder / 筆記資料夾：`notes/web3/`
-- Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 + 第三部分 Ch6 完成（2026-06-09）
-- Next step / 下一步：第三部分 Ch7（Solidity 入門）
+- Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 + 第三部分 Ch6-7 完成（2026-06-09）
+- Next step / 下一步：第三部分 Ch8（開發環境工具鏈）
 
 #### ai-agent
 - Notes folder / 筆記資料夾：`notes/ai-agent/`
