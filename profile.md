@@ -51,22 +51,26 @@ my-learning-journal/
 #### web3
 - Notes folder / 筆記資料夾：`notes/web3/`
 - Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 + 第三部分 Ch6-9 完成（2026-06-11）
-- Next step / 下一步：第四部分 Ch10（DeFi 核心原理）
+- Next step / 下一步：第四部分 Ch10（DeFi 核心原理）｜目標：Ch17 完成後接 payment
 
 #### ai-agent
 - Notes folder / 筆記資料夾：`notes/ai-agent/`
 - Progress / 進度：Day 4 完成，Module 1.1~1.6（AI / 機器學習 / 神經網路 / Token / LLM 本質與訓練三階段 / Context Window）
-- Next step / 下一步：Module 1.7（模型參數 — Temperature、Top-p）
+- Next step / 下一步：hello-agents Ch1–4（本週）→ Ch7 完成後啟動 AI × payment side project｜課程重點在實作作品
 
 #### product
 - Notes folder / 筆記資料夾：`notes/product/`
-- Progress / 進度：初始化完成，尚未開始
-- Next step / 下一步：完成第一篇產品分析
+- Progress / 進度：進行中（實際測試各家目標公司產品）
+- Next step / 下一步：測試並記錄第一個產品體驗
 
-#### payment【暫停】
+#### payment【待接續】
 - Notes folder / 筆記資料夾：`notes/payment/`
 - Progress / 進度：Week 2 Day 1 完成（七角色 / 授權清算 / 結算機制 / MDR 費用結構 / 退款本質）
-- Next step / 下一步：（暫停，待確認是否繼續投入）
+- Next step / 下一步：web3 Ch17 完成後接續
+
+#### 英文口說
+- 目標：每日練習習慣
+- 方式：待定
 
 ### Plans / 計畫
 - 計畫資料夾：`plans/`（weekly / monthly / quarterly / yearly）
@@ -75,6 +79,6 @@ my-learning-journal/
 - 最新計畫：`plans/weekly/2026-W24.md`
 
 ### Side Project
-- Current project / 目前專案：無
-- Progress / 進度：—
-- Next step / 下一步：—
+- Current project / 目前專案：AI × payment agent
+- Progress / 進度：規劃中
+- Next step / 下一步：hello-agents Ch7 完成後啟動
