@@ -50,8 +50,8 @@ my-learning-journal/
 
 #### web3
 - Notes folder / 筆記資料夾：`notes/web3/`
-- Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 + 第三部分 Ch6-9 + 第四部分 Ch10-12 + 第五部分 Ch13-14 + 第六部分 Ch15-16 完成（2026-06-12）
-- Next step / 下一步：第六部分 Ch17（帳戶抽象 UX）｜目標：Ch17 完成後接 payment
+- Progress / 進度：Ch1–Ch17 全部完成（2026-06-12）｜第七部分 Ch18–19 為 Capstone
+- Next step / 下一步：Ch18 完整 dApp Capstone（可選）｜web3 技術基礎已齊備
 
 #### ai-agent
 - Notes folder / 筆記資料夾：`notes/ai-agent/`
@@ -66,7 +66,7 @@ my-learning-journal/
 #### payment【待接續】
 - Notes folder / 筆記資料夾：`notes/payment/`
 - Progress / 進度：Week 2 Day 1 完成（七角色 / 授權清算 / 結算機制 / MDR 費用結構 / 退款本質）
-- Next step / 下一步：web3 Ch17 完成後接續
+- Next step / 下一步：hello-agents Ch7 完成後接續（web3 前置條件 ✓ 已達成）
 
 #### 英文口說
 - 目標：每日練習習慣
