@@ -50,8 +50,8 @@ my-learning-journal/
 
 #### web3
 - Notes folder / 筆記資料夾：`notes/web3/`
-- Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 + 第三部分 Ch6-9 + 第四部分 Ch10-12 + 第五部分 Ch13-14 + 第六部分 Ch15 完成（2026-06-12）
-- Next step / 下一步：第六部分 Ch16（隱私技術）｜目標：Ch17 完成後接 payment
+- Progress / 進度：第一部分 Ch1-3 + 第二部分 Ch4-5 + 第三部分 Ch6-9 + 第四部分 Ch10-12 + 第五部分 Ch13-14 + 第六部分 Ch15-16 完成（2026-06-12）
+- Next step / 下一步：第六部分 Ch17（帳戶抽象 UX）｜目標：Ch17 完成後接 payment
 
 #### ai-agent
 - Notes folder / 筆記資料夾：`notes/ai-agent/`
